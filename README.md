@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sahanruwanthasilva
-- 👀 I’m interested in java , cpp , python
+- 👀 I’m interested in java , web development, python
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on other developers
 - 📫 How to reach me sahanr.silva@hotmail.com
