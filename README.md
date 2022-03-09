@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sahanruwanthasilva
 - 👀 I’m interested in java , web development, python
-- 🌱 I’m currently learning angular, node
+- 🌱 I’m currently learning angular, node, spring boot
 - 💞️ I’m looking to collaborate on other developers
 - 📫 How to reach me sahanr.silva@hotmail.com
