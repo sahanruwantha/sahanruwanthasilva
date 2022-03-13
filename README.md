@@ -3,3 +3,5 @@
 - 🌱 I’m currently learning angular, node, spring boot
 - 💞️ I’m looking to collaborate on other developers
 - 📫 How to reach me sahanr.silva@hotmail.com
+- starwas is the GOAT franchise.
+- currently watching clone wars.
