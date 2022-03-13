@@ -2,6 +2,6 @@
 - 👀 I’m interested in java , web development, DevOps
 - 🌱 I’m currently learning angular, node, spring boot
 - ⭐ starwas is the GOAT franchise.
-- currently watching clone wars.
+- 🎥 currently watching clone wars.
 - 💞️ I’m looking to collaborate on other developers
 - 📫 How to reach me sahanr.silva@hotmail.com
