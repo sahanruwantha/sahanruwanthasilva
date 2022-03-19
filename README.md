@@ -4,4 +4,4 @@
 - 🌱 I’m currently learning angular, node, spring boot
 - ⭐ starwas is the GOAT franchise
 - 🎥 currently watching clone wars & book of boba fett
-- ssssss
+- sssss
