@@ -3,4 +3,4 @@
 - 👀 I’m interested in java , web development, DevOps
 - 🌱 I’m currently learning angular, node, spring boot
 - ⭐ starwas is the GOAT franchise
-- 🎥 currently watching clone wars & book of boba fett
+- 🎥 currently watching clone wars season 6 & simpsons, family guy
