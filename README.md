@@ -5,4 +5,3 @@
 - ⭐ starwas is the GOAT franchise
 - 🎥 currently watching clone wars season 7 & simpsons, vikings
 - ---  May The Force Be With You ---
-z
