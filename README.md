@@ -1,6 +1,6 @@
 - 👋 Hello There
 - 💙 I’m 19 year old SE student from sri lanka 🇱🇰
-- 👀 I’m interested in java , web development, DevOps
+- 👀 I’m interested in everything that really matters
 - 🌱 I’m currently learning spring boot, machine learning, operating systems and compilers
 - ⭐ starwas is the GOAT franchise
 - ---  May The Force Be With You ---
