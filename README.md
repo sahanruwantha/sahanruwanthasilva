@@ -1,4 +1,1 @@
-- 👋 Hello There
-- Jedi Padawan At Jedi High Council
-- 💙 from sri lanka 🇱🇰,
 - ---  May The Force Be With You ---
